@@ -56,6 +56,5 @@ int main()
             cout << "Please choose a valid operation!" << endl;
     }
 
-    return 0;
-    
+    return 0;    
 }
