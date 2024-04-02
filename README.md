@@ -4,15 +4,15 @@ This repository contains all the tasks which I did during my CodSoft internship.
 
 ## Tasks
 
-(1) [**Image Processing Tool**](https://github.com/shashankarya9999/CodSoft-Cpp-Internship/blob/main/01_image_processing_tool.cpp)
+1) [**Image Processing Tool**](https://github.com/shashankarya9999/CodSoft-Cpp-Internship/blob/main/01_image_processing_tool.cpp)
 
-(2) [**Tic-Tac-Toe**]()
+2) [**Tic-Tac-Toe**]()
 
-(3) [**To-Do List**]()
+3) [**To-Do List**]()
 
-(4) [**Simple Calculator**](https://github.com/shashankarya9999/CodSoft-Cpp-Internship/blob/main/04_simple_calculator.cpp)
+4) [**Simple Calculator**](https://github.com/shashankarya9999/CodSoft-Cpp-Internship/blob/main/04_simple_calculator.cpp)
 
-(5) [**Number Guessing Game**](https://github.com/shashankarya9999/CodSoft-Cpp-Internship/blob/main/05_number_guessing_game.cpp)
+5) [**Number Guessing Game**](https://github.com/shashankarya9999/CodSoft-Cpp-Internship/blob/main/05_number_guessing_game.cpp)
 
 ## Description
 
