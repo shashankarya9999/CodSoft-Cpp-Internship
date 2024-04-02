@@ -10,7 +10,7 @@ This repository contains all the tasks which I did during my CodSoft internship.
 
 (3) [**To-Do List**]()
 
-(4) [**Simple Calculator**](https://github.com/shashankarya9999/CodSoft-Cpp-Internship/blob/main/simple_calculator.cpp)
+(4) [**Simple Calculator**](https://github.com/shashankarya9999/CodSoft-Cpp-Internship/blob/main/04_simple_calculator.cpp)
 
 (5) [**Number Guessing Game**]()
 
