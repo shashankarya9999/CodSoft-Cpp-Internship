@@ -6,7 +6,7 @@ This repository contains all the tasks which I did during my CodSoft internship.
 
 1) [**Image Processing Tool**](https://github.com/shashankarya9999/CodSoft-Cpp-Internship/blob/main/01_image_processing_tool.cpp)
 
-2) [**Tic-Tac-Toe**]()
+2) [**Tic-Tac-Toe**](https://github.com/shashankarya9999/CodSoft-Cpp-Internship/blob/main/02_tic_tac_toe.cpp)
 
 3) [**To-Do List**](https://github.com/shashankarya9999/CodSoft-Cpp-Internship/blob/main/03_to_do_list.cpp)
 
