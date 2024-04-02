@@ -52,7 +52,7 @@ This repository contains all the tasks which I did during my CodSoft C++ interns
       - *View Tasks*: Display the list of tasks with their status( completed or pending )
       - *Mark Task as Completed*: Allow users to mark tasks as completed
       - *Remove Task*: Provide an option to remove tasks from list
- 
+     
 4) **Simple Calculator**
 
    A program that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. It allows user to input two numbers and choose an operation to perform.
