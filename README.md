@@ -16,7 +16,7 @@ This repository contains all the tasks which I did during my CodSoft C++ interns
 
 ## Description
 
-1) <ins>**Image Processing Tool**</ins>
+1) **Image Processing Tool**
 
     A tool that allows users to perform various image processing operations like resizing, cropping, and filtering.
   
@@ -28,7 +28,7 @@ This repository contains all the tasks which I did during my CodSoft C++ interns
       - *Image Saving*: Enable users to save the processed image.
       - *User Interface*: Design a user-friendly interface for easy interaction
 
-2) <ins>**Tic-Tac-Toe Game**</ins>
+2) **Tic-Tac-Toe Game**
 
     A console-based Tic-Tac-Toe game that allows two players to play against each other.
 
@@ -43,7 +43,7 @@ This repository contains all the tasks which I did during my CodSoft C++ interns
       - *Display Result*: Show the result of the game( win, draw, or ongoing )
       - *Play Again*: Ask if the players want to play another game
 
-3) <ins>**To-Do List**</ins>
+3) **To-Do List**
 
     A simple console-based to-do list manager that allows users to add, view, and delete tasks.
   
@@ -53,11 +53,11 @@ This repository contains all the tasks which I did during my CodSoft C++ interns
       - *Mark Task as Completed*: Allow users to mark tasks as completed
       - *Remove Task*: Provide an option to remove tasks from list
  
-4) <ins>**Simple Calculator**</ins>
+4) **Simple Calculator**
 
    A program that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. It allows user to input two numbers and choose an operation to perform.
 
-5) <ins>**Number Guessing Game**</ins>
+5) **Number Guessing Game**
 
     A program that generates a random number and asks the user to guess it. Additionally, it provides feedback on whether the guess is too high or too low until the user guesses the correct number.
   
