@@ -61,3 +61,4 @@ This repository contains all the tasks which I did during my CodSoft C++ interns
 
     A program that generates a random number and asks the user to guess it. Additionally, it provides feedback on whether the guess is too high or too low until the user guesses the correct number.
   
+###### Copyright (c) 2024 Shashank Arya
