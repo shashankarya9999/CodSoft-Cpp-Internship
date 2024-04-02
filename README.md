@@ -1,6 +1,6 @@
 # CodSoft C++ Internship
 
-This repository contains all the tasks which I did during my CodSoft internship.
+This repository contains all the tasks which I did during my CodSoft C++ internship.
 
 ## Tasks
 
