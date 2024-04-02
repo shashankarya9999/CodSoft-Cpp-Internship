@@ -1,8 +1,20 @@
 # CodSoft C++ Internship
 
-This repository contains all the tasks which were done during CodSoft internship.
+This repository contains all the tasks which I did during my CodSoft internship.
 
 ## Tasks
+
+(1) [**Image Processing Tool**]()
+
+(2) [**Tic-Tac-Toe**]()
+
+(3) [**To-Do List**]()
+
+(4) [**Simple Calculator**]()
+
+(5) [**Number Guessing Game**]()
+
+## Description
 
 (1) Image Processing Tool
 
@@ -17,6 +29,7 @@ This repository contains all the tasks which were done during CodSoft internship
   - *User Interface*: Design a user-friendly interface for easy interaction
 
 (2) **Tic-Tac-Toe Game**
+
 - A console-based Tic-Tac-Toe game that allows two players to play against each other.
 
   - *Game Board*: Create a 3x3 grid as the game board
