@@ -2,7 +2,7 @@
 
 This repository contains all the tasks which I did during my CodSoft C++ internship.
 
-## Tasks
+## Tasks Overview
 
 1) [**Image Processing Tool**](https://github.com/shashankarya9999/CodSoft-Cpp-Internship/blob/main/01_image_processing_tool.cpp)
 
