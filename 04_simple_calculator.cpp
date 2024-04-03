@@ -51,6 +51,7 @@ int main()
             {
                 cout << "Result: " << (num1 % num2) << endl;
             }
+            break;
       
         default:
             cout << "Please choose a valid operation!" << endl;
