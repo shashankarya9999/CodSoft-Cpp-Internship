@@ -22,17 +22,17 @@ int main()
 
     if( guess == random_number )
     {
-        cout << "Congratulations! You guessed the right number!" <<endl;
+        cout << "Congratulations! You guessed the right number!" << endl;
     }
 
     else if( guess < random_number )
     {
-        cout<< "Your guess is too low. Enter a larger number" << endl;
+        cout << "Your guess is too low. Enter a larger number" << endl;
     }
 
     else
     {
-        cout<< "Your guess is too high. Enter a smaller number" << endl;
+        cout << "Your guess is too high. Enter a smaller number" << endl;
     }
   }
 
