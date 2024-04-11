@@ -15,25 +15,25 @@ int main()
       
         int guess;
         
-        while(guess != random_number)
+        while( guess != random_number )
         {
-          cout << "Enter your guess: ";
-          cin >> user_guess;
-      
-          if( guess == random_number )
-          {
-              cout << "Congratulations! You guessed the right number!" << endl;
-          }
-      
-          else if( guess < random_number )
-          {
-              cout << "Your guess is too low. Enter a larger number" << endl;
-          }
-      
-          else
-          {
-              cout << "Your guess is too high. Enter a smaller number" << endl;
-          }
+                  cout << "Enter your guess: ";
+                  cin >> user_guess;
+              
+                  if( guess == random_number )
+                  {
+                      cout << "Congratulations! You guessed the right number!" << endl;
+                  }
+              
+                  else if( guess < random_number )
+                  {
+                      cout << "Your guess is too low. Enter a larger number" << endl;
+                  }
+              
+                  else
+                  {
+                      cout << "Your guess is too high. Enter a smaller number" << endl;
+                  }
         }
       
         return 0;
