@@ -108,6 +108,7 @@ void view_tasks(const vector<Task>& tasks)
             {
                 cout << "[ ] ";
             }
+            
             cout << tasks[i].description << endl;
         }
     }
