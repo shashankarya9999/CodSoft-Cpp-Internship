@@ -10,7 +10,7 @@ int main()
       
         srand(time(0));
       
-        n=100;
+        n = 100;
         random_number = rand() % n;
       
         int guess;
