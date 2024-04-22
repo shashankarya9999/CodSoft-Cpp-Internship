@@ -56,7 +56,7 @@ int main()
     char currentPlayer = 'X';
     int moves = 0;
 
-    while (moves < 9) 
+    while( moves < 9 ) 
     {
         printBoard(board);
 
@@ -64,7 +64,7 @@ int main()
         cout << "Player " << currentPlayer << ", enter your move (1-9): ";
         cin >> move;
 
-        if (move < 1 || move > 9) 
+        if ( move < 1 || move > 9 ) 
         {
             cout << "Invalid move. Please enter a number between 1 and 9." << endl;
             continue;
@@ -73,7 +73,7 @@ int main()
         int row = (move - 1) / 3;
         int col = (move - 1) % 3;
 
-        if (board[row][col] == 'X' || board[row][col] == 'O') 
+        if ( board[row][col] == 'X' || board[row][col] == 'O' ) 
         {
             cout << "That cell is already taken. Please choose another one." << endl;
             continue;
@@ -81,18 +81,18 @@ int main()
 
         board[row][col] = currentPlayer;
 
-        if (checkWin(board, currentPlayer)) 
+        if(checkWin(board, currentPlayer)) 
         {
             printBoard(board);
             cout << "Player " << currentPlayer << " wins!" << endl;
             break;
         }
 
-        currentPlayer = (currentPlayer == 'X') ? 'O' : 'X';
+        currentPlayer = ( currentPlayer == 'X' ) ? 'O' : 'X';
         moves++;
     }
 
-    if (moves == 9) 
+    if(moves == 9) 
     {
         printBoard(board);
         cout << "It's a tie!" << endl;
