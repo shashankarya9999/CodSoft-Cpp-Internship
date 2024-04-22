@@ -21,7 +21,7 @@ int main()
     vector<Task> tasks;
     string description; 
   
-    while (true) 
+    while(true) 
     {
         cout << "------------ To-Do List Manager ------------" << endl;
         cout << "1) Add Task" << endl;
@@ -34,13 +34,13 @@ int main()
         int choice;
         cin >> choice;
 
-        if (choice == 5) 
+        if(choice == 5) 
         {
             cout << "Adios Amigos!" << endl;
             break;
         }
 
-        switch (choice) 
+        switch(choice) 
         {
             case 1:
                 cout << "Enter task description: ";
@@ -116,7 +116,7 @@ void view_tasks(const vector<Task>& tasks)
 
 void mark_task_completed(vector<Task>& tasks, int task_index) 
 {
-    if (task_index >= 1 && task_index <= static_cast<int>(tasks.size())) 
+    if(task_index >= 1 && task_index <= static_cast<int>(tasks.size())) 
     {
         tasks[task_index - 1].completion_status = true;
         cout << "Task marked as completed!" << endl;
@@ -130,7 +130,7 @@ void mark_task_completed(vector<Task>& tasks, int task_index)
 
 void remove_task(vector<Task>& tasks, int task_index) 
 {
-    if (task_index >= 1 && task_index <= static_cast<int>(tasks.size())) 
+    if(task_index >= 1 && task_index <= static_cast<int>(tasks.size())) 
     {
         tasks.erase(tasks.begin() + task_index - 1);
         cout << "Task removed successfully!" << endl;
