@@ -99,6 +99,7 @@ void view_tasks(const vector<Task>& tasks)
         for (size_t i = 0; i < tasks.size(); i++) 
         {
             cout << i + 1 << ". ";
+            
             if (tasks[i].completion_status) 
             {
                 cout << "[X] ";
